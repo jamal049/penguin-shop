@@ -1,0 +1,21 @@
+.penguin-card>img {
+    height: 400px;
+}
+.btn-color{
+    background-color: #A4BC46;
+    color: #fff;
+}
+.penguin-card-footer h5{
+    color: #FABE4C;
+    font-size: 30px;
+}
+header{
+    background-color: #FFFBF0;
+}
+.head-text h1 {
+    font-size: 54px;
+    font-weight: bold;
+}
+.color-text{
+    color: #FABE4C;
+}
